@@ -1,4 +1,4 @@
-# fitness
+# DiceRoll
 
 A new Flutter project.
 
